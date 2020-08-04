@@ -10,6 +10,8 @@ https://discord.gg/Rt6uTeC
 
 👯 Twitter: https://twitter.com/SucceededBuild
 
+🤔 Do you want to support me? https://www.patreon.com/BuildSucceeded
+
 <!--
 **BuildSucceeded/BuildSucceeded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
